@@ -19,7 +19,7 @@ This is a React.js application that displays a chart using the Recharts library.
 
    ```bash
    git clone https://https://github.com/Rohitha19/Probz.AI_Assignment
-   cd probz.ai-assignment
+   cd my-chart-app
 
 
 Navigate to the project directory:
