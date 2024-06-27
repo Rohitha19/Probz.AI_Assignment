@@ -18,7 +18,7 @@ This is a React.js application that displays a chart using the Recharts library.
 1. Clone the repository:
 
    ```bash
-   git clone https://https://github.com/Rohitha19/Probz_AI_Assignment
+   git clone https://https://github.com/Rohitha19/Probz.AI_Assignment
    cd probz.ai-assignment
 
 
